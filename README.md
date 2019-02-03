@@ -5,8 +5,11 @@ A list of curated React Utilities and NPM packages
 React Async Calls (Perform Asynchronous Requests)  
 ```
 Libraries to use 
+
 [Redux-Promise] https://www.npmjs.com/package/redux-promise         (My Favorite) 
+
 [Redux-Saga] https://github.com/redux-saga/redux-saga               (Not used that much) 
+
 [Redux-Thunk] https://github.com/reduxjs/redux-thunk                (Mostly used) 
 
 ```
