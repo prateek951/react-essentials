@@ -15,8 +15,12 @@ Libraries to use
 ```
 Design and UI
 ```
-[Semantic-UI] https://react.semantic-ui.com/       
+[Semantic-UI] https://react.semantic-ui.com/    
+
 [Ant-Design] https://ant.design/
+
 [React-Bootstrap] https://react-bootstrap.github.io/
+
 [Material-UI] https://material-ui.com/
+
 [MD-Bootstrap] https://mdbootstrap.com/docs/react/  
