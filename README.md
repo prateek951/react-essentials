@@ -24,3 +24,16 @@ Design and UI
 [Material-UI] https://material-ui.com/
 
 [MD-Bootstrap] https://mdbootstrap.com/docs/react/  
+
+```
+Some Tutorials for new comers in React 
+```
+[ReactUniversity] https://www.youtube.com/c/ReactUniversity
+
+[Udemy] React.js The Complete Guide by Maximilian Schwarzmuller 
+
+[Udacity] React Nanodegree 
+
+[Udemy] Modern React With Redux by Stephen Grider 
+
+[The Net Ninja] React.js Series on Youtube (Highly recommended)
