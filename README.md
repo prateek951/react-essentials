@@ -37,3 +37,5 @@ Some Tutorials for new comers in React
 [Udemy] Modern React With Redux by Stephen Grider 
 
 [The Net Ninja] React.js Series on Youtube (Highly recommended)
+
+[Medium Clone with React, Redux and Node] https://school.geekwall.in/p/SJxlcHpIQ/how-to-create-a-simple-medium-with-react-node
